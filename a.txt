@@ -1,3 +1,5 @@
 testando uma atualização do arquivo.
 
 enviando uma funcionalidade xpto
+
+enviando a funcionalidade B
